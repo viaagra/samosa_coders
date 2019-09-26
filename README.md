@@ -32,5 +32,6 @@ Karan Deep Singh Dhillon Randhawa
 
 
 ![alt text](https://github.com/viaagra/samosa_coders/blob/master/phot.png "Logo Title Text 1")
+<a href="https://github.com/viaagra/samosa_coders/blob/master/phot.png"></a>
 
 
