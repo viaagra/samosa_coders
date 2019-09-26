@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Samosa Coders Dot Com
 
-You can use the [editor on GitHub](https://github.com/viaagra/samosa_coders/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to samosa coders dot com. We specialize in:
+- Doing 1 day code in 3 days (weekends, official holidays and sick leaves not included)
+- Fucking up a working code and correcting it in the same day (24 hours turn around time - best in world)
+- Blaming each other and even fist fighting if required (Fight club is our inspiration)
+- Stopping work immediately if salary is not credited on 1st of every month 00:00:00
+- Drinking more than we can handle, and then applying for sick leave
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why Us?
 
-### Markdown
+Our amazing team is expert in:
+- Plugging in a computer to power
+- Turning on the computer
+- Opening in windows by mistake, restarting into ubuntu
+- Staring at desktop for minutes together before doing any practical work
+- Breakfast, Lunch, Snack, and leaving on time
+- Coming to office shall be done only if weather, and mood allows
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Basically, you can charge your clients much more for the same work if you work with us. Goes without saying, we take a cut from it.
 
-```markdown
-Syntax highlighted code block
+### Known personalities
 
-# Header 1
-## Header 2
-### Header 3
+Karan Deep Singh Dhillon Randhawa
+- Best samosa coder
+- Founder and co-founder of samosa coders
+- His life is dedicated to samosa coding practices (without any effort)
+- Blame gamer in work and personal life alike
+- Porn addict
 
-- Bulleted
-- List
+(More profiles coming soon)
 
-1. Numbered
-2. List
+![alt text][logo]
 
-**Bold** and _Italic_ and `Code` text
+[logo]: https://github.com/viaagra/samosa_coders/blob/master/photo_2019-09-26_16-16-11.jpg "Logo Title Text 2"
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viaagra/samosa_coders/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
