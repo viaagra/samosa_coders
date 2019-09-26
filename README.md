@@ -31,6 +31,6 @@ Karan Deep Singh Dhillon Randhawa
 (More profiles coming soon)
 
 
-![alt text](https://github.com/viaagra/samosa_coders/blob/master/photo_2019-09-26_16-16-11.jpg "Logo Title Text 1")
+![alt text](https://github.com/viaagra/samosa_coders/blob/master/phot.png "Logo Title Text 1")
 
 
